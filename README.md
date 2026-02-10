@@ -62,10 +62,3 @@ I am learning:
 
 All learning time and development time is logged.
 
----
-
-## 🚀 How to Run (will update)
-
-```bash
-python main.py
-# AI-Detective-Game
